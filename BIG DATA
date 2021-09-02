@@ -1,26 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Quran Kareem" tvg-logo="https://besttvps.com/app/panel-logos/islamic/qurankareem.png" group-title="Quran | القران الكريم",Quran Kareem
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Palestine Quran Kareem" tvg-logo="https://besttvps.com/app/panel-logos/islamic/nablusquran.png" group-title="Quran | القران الكريم",Palestine Quran Kareem
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/3369.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlSunnah Al Nabawiyah" tvg-logo="https://besttvps.com/app/panel-logos/islamic/sunnah.png" group-title="Quran | القران الكريم",AlSunnah Al Nabawiyah
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Iqraa Tv" tvg-logo="https://besttvps.com/app/panel-logos/islamic/iqraa.png" group-title="Quran | القران الكريم",Iqraa Tv
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/1011.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlErth AlNabawi" tvg-logo="https://besttvps.com/app/panel-logos/islamic/alaerth.png" group-title="Quran | القران الكريم",AlErth AlNabawi
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/1031.ts
-#EXTINF:-1 tvg-id="" tvg-name="Makkah Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/makkah.png" group-title="Quran | القران الكريم",Makkah Quran
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/877.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kaif Tv" tvg-logo="https://besttvps.com/app/panel-logos/islamic/kaif.png" group-title="Quran | القران الكريم",Kaif Tv
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/3088.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahlu AlQuran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ahluquran.png" group-title="Quran | القران الكريم",Ahlu AlQuran
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/973.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ayat Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ayat.png" group-title="Quran | القران الكريم",Ayat Quran
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/1000.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Majd Quran" tvg-logo="https://besttvps.com/app/panel-logos/islamic/almajd.png" group-title="Quran | القران الكريم",Al Majd Quran
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/398.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ahmad AL Ajami" tvg-logo="https://besttvps.com/app/panel-logos/islamic/ahmadalajmi.png" group-title="Quran | القران الكريم",Ahmad AL Ajami
-https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/3090.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Saad Al Ghamidi" tvg-logo="https://besttvps.com/app/panel-logos/islamic/saadghamdi.png" group-title="Quran | القران الكريم",Saad Al Ghamidi
 https://tv.free24ip.xyz:443/live/78531630523421/78531630523421/3089.ts
 #EXTINF:-1 tvg-id="" tvg-name="Maher Al Muaiqly" tvg-logo="https://besttvps.com/app/panel-logos/islamic/mahermeqli.png" group-title="Quran | القران الكريم",Maher Al Muaiqly
